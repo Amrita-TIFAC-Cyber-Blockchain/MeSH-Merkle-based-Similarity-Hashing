@@ -1,4 +1,4 @@
-# Similarity Hashing Algorithm ![](https://img.shields.io/badge/-Live-brightgreen)
+# MeSH: Merkle based Similarity Hashing ![](https://img.shields.io/badge/-Live-brightgreen)
 ![](https://img.shields.io/badge/Batch-20CYS-green) ![](https://img.shields.io/badge/Domain-Hashing_Algorithm-blue) ![](https://img.shields.io/badge/M.Tech--Thesis-WIP-orange)  ![](https://img.shields.io/badge/Focus-Similarity-yellow) <br/>
 ![](https://img.shields.io/badge/Blockchain-Ethereum-blue) ![](https://img.shields.io/badge/Focus-ssdeep-blue) ![](https://img.shields.io/badge/Focus-sdhash-blue) ![](https://img.shields.io/badge/Focus-mrsh_v2-blue) ![](https://img.shields.io/badge/Focus-fbhash-blue) <br/>
 ![](https://img.shields.io/badge/Dataset-TBD-darkblue)
@@ -7,22 +7,25 @@
 
 ## Existing Tools
 
-### dcfldd
+- dcfldd
 
-### ssdeep
+- ssdeep
 
-### sdhash
+- sdhash
 
-### bbhash
+- bbhash
 
-### mvhash-B
+- mvhash-B
 
-### mrsh_v2
+- mrsh_v2
 
-### FbHash
+- FbHash
 
-### LZJD
+- LZJD
 
+## Proposed Algorithm
+
+[Click Here](UI/index.html) to view.
 
 ## Acknowledgement
 We would like to acknowldge the support provided by **TIFAC-CORE in Cyber Security**, Amrita School of Engineering, Amrita Vishwa Vidyapeetham, Coimbatore, India in carrying out this work as part of "**M.Tech Cyber Security**" Thesis. 
@@ -36,6 +39,7 @@ We would like to acknowldge the support provided by **TIFAC-CORE in Cyber Securi
 - [Chang, D., Ghosh, M., Sanadhya, S. K., Singh, M., & White, D. R.]() (2019, July). **FbHash: A New Similarity Hashing Scheme for Digital Forensics.** _Digital Investigation._  Elsevier BV. Vol. 29, S113-S123. http://doi.org/10.1016/j.diin.2019.04.006
 - [Martín-Pérez, M., Rodríguez, R. J., & Breitinger, F.]() (2021, April). **Bringing order to approximate matching: Classification and attacks on similarity digest algorithms.** _Forensic Science International: Digital Investigation._ Elsevier BV. Vol. 36, 301120. http://doi.org/10.1016/j.fsidi.2021.301120
 - [Singh, M., Khunteta, A., Ghosh, M., Chang, D., & Sanadhya, S. K.]() (2022, June). **FbHash-E: A time and memory efficient version of FbHash similarity hashing algorithm.** _Forensic Science International: Digital Investigation._ Elsevier BV. Vol. 41, 301375. http://doi.org/10.1016/j.fsidi.2022.301375
+- Prathamudeshmukh. Merkle Tree Visualization. Retrieved from https://prathamudeshmukh.github.io/merkle-tree-demo/
 
 ## Publication
 TBD 
